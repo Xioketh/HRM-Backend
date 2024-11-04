@@ -1,6 +1,7 @@
 # DATA Folder
 
 The `DATA` folder contains important test data and database backups used for the application.
+Peters
 
 ## Contents
 
